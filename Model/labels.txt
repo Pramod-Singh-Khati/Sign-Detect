@@ -1,0 +1,11 @@
+0 A
+1 B
+2 C
+3 D
+4 Dislike 
+5 Hello
+6 L
+7 Like
+8 Okay
+9 Please
+10 Thankyou
